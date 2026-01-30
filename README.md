@@ -1,1 +1,1 @@
-# 3D-scanning-output-test
+# 3D-scanning-output
